@@ -1,3 +1,3 @@
 # ML_PROJECTS
-Crop Prediction & Analysis using Multi-Supervised Models
-Weather Prediction & Forecasting usking Multi-Supervised Models
+# Crop Prediction & Analysis using Multi-Supervised Learning Models
+# Weather Prediction & Forecasting using Multi-Supervised Learning Modela
